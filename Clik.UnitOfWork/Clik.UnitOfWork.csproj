@@ -9,6 +9,8 @@
     <AssemblyVersion>$(VersionPrefix)</AssemblyVersion>
     <FileVersion>$(VersionPrefix)</FileVersion>
     <Copyright>Copyright © 2026 Clik</Copyright>
+    <RepositoryUrl>https://github.com/lkt-th/Clik</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
