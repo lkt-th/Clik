@@ -4,6 +4,11 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <VersionPrefix>1.0.1</VersionPrefix>
+    <Authors>Clik</Authors>
+    <AssemblyVersion>$(VersionPrefix)</AssemblyVersion>
+    <FileVersion>$(VersionPrefix)</FileVersion>
+    <Copyright>Copyright © 2026 Clik</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
