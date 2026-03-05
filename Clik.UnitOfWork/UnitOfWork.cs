@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Storage;
 using System.Collections.Concurrent;
 
-namespace Clikh.UnitOfWork
+namespace Clik.UnitOfWork
 {
     public class UnitOfWork(DbContext db) : IUnitOfWork, IAsyncDisposable, IDisposable
     {

@@ -1,4 +1,4 @@
-﻿namespace Clikh.UnitOfWork
+﻿namespace Clik.UnitOfWork
 {
     public interface IUnitOfWork : IDisposable
     {

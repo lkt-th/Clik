@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Query;
 using System.Linq.Expressions;
 
-namespace Clikh.UnitOfWork
+namespace Clik.UnitOfWork
 {
     public class Repository<T> : IRepository<T> where T : class
     {

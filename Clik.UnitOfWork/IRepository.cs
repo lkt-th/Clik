@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace Clikh.UnitOfWork
+namespace Clik.UnitOfWork
 {
     public interface IRepository<T> where T : class
     {
